@@ -78,4 +78,4 @@ Coming soon:
 https://www.kaggle.com/orxansuleymanov
 
 💼 Upwork:
-https://www.upwork.com/freelancers/~01b5e3506436fd4b1
+https://www.upwork.com/freelancers/~01b5e3506436f6d4b1
